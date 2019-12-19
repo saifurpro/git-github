@@ -1,0 +1,5 @@
+# install Git on Manjaro Linux
+
+```
+sudo pacman -S git
+```
