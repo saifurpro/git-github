@@ -19,3 +19,10 @@ cd htdocs
 sudo rm -r folderName
 ```
 for Permission type Yes
+
+
+### Open Xampp Visual View
+``` 
+cd /opt/lampp
+sudo ./manager-linux-x64.run
+```
