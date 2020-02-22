@@ -14,3 +14,14 @@
 
 ## Summery 
 .![](https://imgur.com/zo2AVJs.png)
+
+
+## Store your credentials using the following command
+```
+
+git config credential.helper store
+git push https:example.com/repo.git
+username: <type your username>
+password: <type your password>
+
+```
